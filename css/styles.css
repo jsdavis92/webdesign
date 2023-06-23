@@ -75,7 +75,7 @@ hr {
 .top-container {
     position: relative;
     padding-top: 10%;
-    padding-bottom: 20%;
+    padding-bottom: 100px;
     
    
    
@@ -89,7 +89,7 @@ hr {
 
 .bottom-container {
    
-    padding: 20px 0 20px;
+    padding: 20px 0 0px;
     text-decoration: none;
 }
 
@@ -103,7 +103,7 @@ hr {
 
 
 .profile {
-    padding-top: 30%;
+    padding-top: 10%;
 }
 
 
@@ -134,22 +134,12 @@ hr {
 .contact-me {
     width: 70%;
     margin: 40px auto 60px; 
-    padding-bottom: 20%;
+    padding-bottom: 10%;
 }
 
 
-.top-cloud {
-    position: absolute;
-    right: 300px;
-    top: 40px;
-}
 
 
-.bottom-cloud {
-    position: absolute;
-    left: 300px;
-    bottom: 150px;
-}
 
 .skill-row {
     margin: 100px auto 100px auto;
